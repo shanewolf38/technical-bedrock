@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "sirlich:box",
+            "materials": {
+                "default": "creeper"
+            },
+            "textures": {
+                "default": "textures/entity/box"
+            },
+            "geometry": {
+                "default": "geometry.box"
+            },
+            "render_controllers": [
+                "controller.render.single_texture"
+            ]
+        }
+    }
+}
