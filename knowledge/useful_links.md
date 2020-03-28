@@ -11,6 +11,7 @@ Discord is an online chatroom tool that many of you are already probably familia
  - [Bedrock Scripting](https://discord.gg/46JUdQb)
  - [Bridge](https://discord.gg/NxKuWuA)
  - [Minecraft](https://discord.gg/minecraft)
+ - [Skill Share](https://discord.gg/sZ7fkcN)
 
 ## Documentation Links:
  - [Official Documentation](https://minecraft.gamepedia.com/Add-on)
