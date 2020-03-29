@@ -4,7 +4,7 @@ Namespaces are identifiers that marks content ownership. You can think of them a
 
 Namespaces in addon creation can essentially be thought of as "the part to the left of the colon". For example, `minecraft` is the namespace of `minecraft:zombie`. The general form is `namespace:name`.
 
-As a really specific example of why namespaces are useful, lets imagine you create a new Mob. You name it `minecraft:shark`, not aware that you should create your own namespace for custom content. Next year, Mojang decides to add sharks into the game! Now there is a naming conflic, since there are two definitions of `minecraft:shark`. Your addon will break. 
+As a really specific example of why namespaces are useful, lets imagine you create a new Mob. You name it `minecraft:shark`, not aware that you should create your own namespace for custom content. Next year, Mojang decides to add sharks into the game! Now there is a naming conflict, since there are two definitions of `minecraft:shark`. Your addon will break. 
 
 If you had instead used `your_namespace:shark`, the naming conflict wouldn't have happened.
 
