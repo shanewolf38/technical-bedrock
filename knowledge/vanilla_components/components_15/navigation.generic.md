@@ -14,7 +14,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### dolphin.json
 ```JSON
 "minecraft:navigation.generic": {
     "is_amphibious": true,
@@ -26,7 +25,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### dolphin.json
 ```JSON
 "minecraft:navigation.generic": {
     "is_amphibious": true,
@@ -38,7 +36,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### dolphin.json
 ```JSON
 "minecraft:navigation.generic": {
     "is_amphibious": true,
@@ -62,7 +59,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### drowned.json
 ```JSON
 "minecraft:navigation.generic": {
     "is_amphibious": true,
@@ -74,7 +70,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### drowned.json
 ```JSON
 "minecraft:navigation.generic": {
     "is_amphibious": true,

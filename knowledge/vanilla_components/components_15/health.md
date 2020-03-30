@@ -42,7 +42,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cat.json
 ```JSON
 "minecraft:health": {
     "value": 20,
@@ -232,7 +231,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### magma_cube.json
 ```JSON
 "minecraft:health": {
     "value": 4,
@@ -240,7 +238,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### magma_cube.json
 ```JSON
 "minecraft:health": {
     "value": 1,
@@ -283,7 +280,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### ocelot.json
 ```JSON
 "minecraft:health": {
     "value": 20,
@@ -299,7 +295,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:health": {
     "value": 10,
@@ -378,7 +373,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### salmon.json
 ```JSON
 "minecraft:health": {
     "value": 6,
@@ -386,7 +380,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### salmon.json
 ```JSON
 "minecraft:health": {
     "value": 6,
@@ -442,7 +435,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### slime.json
 ```JSON
 "minecraft:health": {
     "value": 4,
@@ -450,7 +442,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### slime.json
 ```JSON
 "minecraft:health": {
     "value": 1,
@@ -585,7 +576,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### wolf.json
 ```JSON
 "minecraft:health": {
     "value": 20,

@@ -46,7 +46,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### llama.json
 ```JSON
 "minecraft:behavior.ranged_attack": {
     "priority": 2,
@@ -56,7 +55,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### llama.json
 ```JSON
 "minecraft:behavior.ranged_attack": {
     "priority": 2,
@@ -94,7 +92,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### skeleton.json
 ```JSON
 "minecraft:behavior.ranged_attack": {
     "attack_interval_min": 1,
@@ -122,7 +119,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### stray.json
 ```JSON
 "minecraft:behavior.ranged_attack": {
     "attack_interval_min": 1,

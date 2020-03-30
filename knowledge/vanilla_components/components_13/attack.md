@@ -18,7 +18,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cave_spider.json
 ```JSON
 "minecraft:attack": {
     "damage": 2,
@@ -27,7 +26,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cave_spider.json
 ```JSON
 "minecraft:attack": {
     "damage": 2,
@@ -125,14 +123,12 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### magma_cube.json
 ```JSON
 "minecraft:attack": {
     "damage": 4
 }
 ```
 
-### magma_cube.json
 ```JSON
 "minecraft:attack": {
     "damage": 2
@@ -146,7 +142,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:attack": {
     "damage": 6.0
@@ -209,14 +204,12 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### slime.json
 ```JSON
 "minecraft:attack": {
     "damage": 2
 }
 ```
 
-### slime.json
 ```JSON
 "minecraft:attack": {
     "damage": 0
@@ -276,7 +269,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### wolf.json
 ```JSON
 "minecraft:attack": {
     "damage": 4

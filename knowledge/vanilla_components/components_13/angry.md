@@ -50,7 +50,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### llama.json
 ```JSON
 "minecraft:angry": {
     "duration": -1,
@@ -62,7 +61,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### llama.json
 ```JSON
 "minecraft:angry": {
     "duration": 10,
@@ -91,7 +89,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:angry": {
     "duration": 1,
@@ -131,7 +128,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### polar_bear.json
 ```JSON
 "minecraft:angry": {
     "duration": 500,

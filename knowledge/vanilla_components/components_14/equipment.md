@@ -15,7 +15,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### drowned.json
 ```JSON
 "minecraft:equipment": {
     "table": "loot_tables/entities/drowned_equipment.json",
@@ -55,7 +54,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pillager.json
 ```JSON
 "minecraft:equipment": {
     "table": "loot_tables/entities/pillager_captain_equipment.json",
@@ -68,7 +66,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pillager.json
 ```JSON
 "minecraft:equipment": {
     "table": "loot_tables/entities/pillager_captain_equipment.json",
@@ -109,7 +106,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### vindicator.json
 ```JSON
 "minecraft:equipment": {
     "table": "loot_tables/entities/vindicator_captain_equipment.json",
@@ -122,7 +118,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### vindicator.json
 ```JSON
 "minecraft:equipment": {
     "table": "loot_tables/entities/vindicator_captain_equipment.json",

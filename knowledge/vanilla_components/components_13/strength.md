@@ -10,7 +10,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### llama.json
 ```JSON
 "minecraft:strength": {
     "value": 2,
@@ -18,7 +17,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### llama.json
 ```JSON
 "minecraft:strength": {
     "value": 3,
@@ -26,7 +24,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### llama.json
 ```JSON
 "minecraft:strength": {
     "value": 4,
@@ -34,7 +31,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### llama.json
 ```JSON
 "minecraft:strength": {
     "value": 5,

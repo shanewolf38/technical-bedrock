@@ -69,7 +69,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### drowned.json
 ```JSON
 "minecraft:experience_reward": {
     "on_death": "query.last_hit_by_player ? 5 + (query.equipment_count * Math.Random(1,3)) : 0"
@@ -148,7 +147,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### husk.json
 ```JSON
 "minecraft:experience_reward": {
     "on_death": "query.last_hit_by_player ? 5 + (query.equipment_count * Math.Random(1,3)) : 0"
@@ -402,7 +400,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie.json
 ```JSON
 "minecraft:experience_reward": {
     "on_death": "query.last_hit_by_player ? 5 + (query.equipment_count * Math.Random(1,3)) : 0"
@@ -423,7 +420,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_pigman.json
 ```JSON
 "minecraft:experience_reward": {
     "on_death": "query.last_hit_by_player ? 5 + (query.equipment_count * Math.Random(1,3)) : 0"
@@ -437,7 +433,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:experience_reward": {
     "on_death": "query.last_hit_by_player ? 5 + (query.equipment_count * Math.Random(1,3)) : 0"
@@ -451,7 +446,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:experience_reward": {
     "on_death": "query.last_hit_by_player ? 5 + (query.equipment_count * Math.Random(1,3)) : 0"

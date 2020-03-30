@@ -114,7 +114,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### fishing_hook.json
 ```JSON
 "minecraft:loot": {
     "table": "loot_tables/gameplay/jungle_fishing.json"
@@ -177,7 +176,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### magma_cube.json
 ```JSON
 "minecraft:loot": {
     "table": "loot_tables/entities/magma_cube.json"
@@ -233,7 +231,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pig.json
 ```JSON
 "minecraft:loot": {
     "table": "loot_tables/entities/pig_saddled.json"
@@ -247,7 +244,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pillager.json
 ```JSON
 "minecraft:loot": {
     "table": "loot_tables/entities/pillager_raid.json"
@@ -296,14 +292,12 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### salmon.json
 ```JSON
 "minecraft:loot": {
     "table": "loot_tables/entities/salmon_normal.json"
 }
 ```
 
-### salmon.json
 ```JSON
 "minecraft:loot": {
     "table": "loot_tables/entities/salmon_large.json"
@@ -317,7 +311,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### sheep.json
 ```JSON
 "minecraft:loot": {
     "table": "loot_tables/entities/sheep.json"
@@ -415,7 +408,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### vindicator.json
 ```JSON
 "minecraft:loot": {
     "table": "loot_tables/entities/vindicator_raid.json"

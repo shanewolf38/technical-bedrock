@@ -87,7 +87,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### iron_golem.json
 ```JSON
 "minecraft:behavior.hurt_by_target": {
     "priority": 2,

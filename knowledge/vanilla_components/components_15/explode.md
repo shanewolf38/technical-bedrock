@@ -14,7 +14,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### creeper.json
 ```JSON
 "minecraft:explode": {
     "fuse_length": 1.5,
@@ -26,7 +25,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### creeper.json
 ```JSON
 "minecraft:explode": {
     "fuse_length": 1.5,
@@ -38,7 +36,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### creeper.json
 ```JSON
 "minecraft:explode": {
     "fuse_length": 1.5,
@@ -85,7 +82,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### tnt.json
 ```JSON
 "minecraft:explode": {
     "fuse_length": {
@@ -108,7 +104,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### tnt_minecart.json
 ```JSON
 "minecraft:explode": {
     "fuse_length": 0,

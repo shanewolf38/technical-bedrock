@@ -246,7 +246,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:shareables": {
     "items": [
@@ -318,7 +317,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:shareables": {
     "items": [
@@ -362,7 +360,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:shareables": {
     "items": [

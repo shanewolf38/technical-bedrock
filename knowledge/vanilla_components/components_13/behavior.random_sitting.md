@@ -13,7 +13,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:behavior.random_sitting": {
     "priority": 6,

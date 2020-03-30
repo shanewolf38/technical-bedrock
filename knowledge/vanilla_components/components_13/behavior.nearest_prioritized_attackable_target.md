@@ -78,7 +78,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### fox.json
 ```JSON
 "minecraft:behavior.nearest_prioritized_attackable_target": {
     "priority": 6,

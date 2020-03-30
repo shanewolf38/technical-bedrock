@@ -25,7 +25,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### dolphin.json
 ```JSON
 "minecraft:on_target_acquired": {}
 ```
@@ -85,7 +84,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:on_target_acquired": {
     "event": "minecraft:become_angry",
@@ -93,7 +91,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:on_target_acquired": {}
 ```
@@ -106,7 +103,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### polar_bear.json
 ```JSON
 "minecraft:on_target_acquired": {
     "event": "minecraft:on_anger",
@@ -137,7 +133,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### spider.json
 ```JSON
 "minecraft:on_target_acquired": {
     "event": "minecraft:become_angry"
@@ -157,7 +152,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 "minecraft:on_target_acquired": {}
 ```
 
-### wolf.json
 ```JSON
 "minecraft:on_target_acquired": {
     "event": "minecraft:become_angry",

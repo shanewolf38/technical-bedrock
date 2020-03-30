@@ -26,7 +26,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cow.json
 ```JSON
 "minecraft:behavior.breed": {
     "priority": 3,
@@ -74,7 +73,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:behavior.breed": {
     "priority": 3,
@@ -98,7 +96,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:behavior.breed": {
     "priority": 3,
@@ -122,7 +119,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### rabbit.json
 ```JSON
 "minecraft:behavior.breed": {
     "priority": 2,

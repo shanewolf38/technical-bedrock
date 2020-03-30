@@ -22,7 +22,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### turtle.json
 ```JSON
 "minecraft:behavior.move_to_water": {
     "priority": 1,

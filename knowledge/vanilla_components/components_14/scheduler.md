@@ -156,7 +156,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:scheduler": {
     "min_delay_secs": 0,
@@ -251,7 +250,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:scheduler": {
     "min_delay_secs": 0,
@@ -312,7 +310,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:scheduler": {
     "min_delay_secs": 0,
@@ -390,7 +387,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:scheduler": {
     "min_delay_secs": 0,
@@ -485,7 +481,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:scheduler": {
     "min_delay_secs": 0,
@@ -580,7 +575,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:scheduler": {
     "min_delay_secs": 0,

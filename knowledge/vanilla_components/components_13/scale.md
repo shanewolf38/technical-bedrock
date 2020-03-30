@@ -9,7 +9,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cat.json
 ```JSON
 "minecraft:scale": {
     "value": 0.8
@@ -65,7 +64,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### husk.json
 ```JSON
 "minecraft:scale": {
     "value": 1.0625
@@ -93,7 +91,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### ocelot.json
 ```JSON
 "minecraft:scale": {
     "value": 1
@@ -107,7 +104,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:scale": {
     "value": 0.4
@@ -142,7 +138,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### rabbit.json
 ```JSON
 "minecraft:scale": {
     "value": 0.6
@@ -156,14 +151,12 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### salmon.json
 ```JSON
 "minecraft:scale": {
     "value": 1
 }
 ```
 
-### salmon.json
 ```JSON
 "minecraft:scale": {
     "value": 1.5

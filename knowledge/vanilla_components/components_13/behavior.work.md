@@ -7,7 +7,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 "minecraft:behavior.work": {}
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.work": {
     "priority": 7,
@@ -25,7 +24,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.work": {
     "priority": 7,
@@ -43,7 +41,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.work": {
     "priority": 7,
@@ -61,7 +58,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.work": {
     "priority": 7,

@@ -370,7 +370,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -391,7 +390,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### parrot.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -660,7 +658,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### turtle.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -691,7 +688,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -703,7 +699,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -715,7 +710,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -727,7 +721,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -739,7 +732,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -750,7 +742,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -761,7 +752,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -773,7 +763,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -785,7 +774,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -797,7 +785,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -809,7 +796,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -821,7 +807,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -843,7 +828,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -854,7 +838,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -866,7 +849,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -878,7 +860,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -890,7 +871,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -902,7 +882,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -913,7 +892,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -924,7 +902,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -936,7 +913,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -948,7 +924,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -960,7 +935,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -972,7 +946,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -984,7 +957,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -996,7 +968,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1008,7 +979,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1042,7 +1012,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### wandering_trader.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1149,7 +1118,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1163,7 +1131,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1177,7 +1144,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1191,7 +1157,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1205,7 +1170,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1219,7 +1183,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1233,7 +1196,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1247,7 +1209,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1261,7 +1222,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1275,7 +1235,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1289,7 +1248,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1317,7 +1275,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1331,7 +1288,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1345,7 +1301,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1359,7 +1314,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1373,7 +1327,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1387,7 +1340,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1401,7 +1353,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1415,7 +1366,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1429,7 +1379,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1443,7 +1392,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1457,7 +1405,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1471,7 +1418,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1485,7 +1431,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [
@@ -1499,7 +1444,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:type_family": {
     "family": [

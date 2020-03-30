@@ -12,7 +12,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### magma_cube.json
 ```JSON
 "minecraft:movement.jump": {
     "jump_delay": [
@@ -22,7 +21,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### magma_cube.json
 ```JSON
 "minecraft:movement.jump": {
     "jump_delay": [
@@ -42,7 +40,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### slime.json
 ```JSON
 "minecraft:movement.jump": {
     "jump_delay": [
@@ -52,7 +49,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### slime.json
 ```JSON
 "minecraft:movement.jump": {
     "jump_delay": [

@@ -311,7 +311,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### vindicator.json
 ```JSON
 "minecraft:navigation.walk": {
     "can_path_over_water": true,
@@ -402,7 +401,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:navigation.walk": {
     "is_amphibious": true,
@@ -423,7 +421,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:navigation.walk": {
     "is_amphibious": true,

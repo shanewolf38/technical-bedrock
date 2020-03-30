@@ -16,7 +16,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### drowned.json
 ```JSON
 "minecraft:underwater_movement": {
     "value": 0.08
@@ -79,7 +78,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### turtle.json
 ```JSON
 "minecraft:underwater_movement": {
     "value": 0.12

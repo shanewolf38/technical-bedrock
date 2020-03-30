@@ -16,28 +16,24 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### horse.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 1
 }
 ```
 
-### horse.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 2
 }
 ```
 
-### horse.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 3
 }
 ```
 
-### horse.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 4
@@ -51,7 +47,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### llama.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 1
@@ -65,77 +60,66 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:mark_variant": {
     "value": -1
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 0
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 1
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 2
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 3
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 4
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 5
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 6
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 7
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 8
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 9
@@ -149,189 +133,162 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 1
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 2
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 3
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 4
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 5
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 1
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 0
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 1
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 4
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 1
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 0
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 5
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 3
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 5
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 5
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 2
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 5
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 3
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 4
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 4
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 2
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 3
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 0
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 1
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 1
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 1
 }
 ```
 
-### tropicalfish.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 3
@@ -345,42 +302,36 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 1
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 2
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 3
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 4
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 5
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 6
@@ -394,35 +345,30 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 2
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 3
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 4
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 5
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:mark_variant": {
     "value": 6

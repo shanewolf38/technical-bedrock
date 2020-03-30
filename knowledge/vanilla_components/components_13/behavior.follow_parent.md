@@ -18,7 +18,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cow.json
 ```JSON
 "minecraft:behavior.follow_parent": {
     "priority": 6,
@@ -74,7 +73,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### mooshroom.json
 ```JSON
 "minecraft:behavior.follow_parent": {
     "priority": 6,
@@ -130,7 +128,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### sheep.json
 ```JSON
 "minecraft:behavior.follow_parent": {
     "priority": 6,

@@ -65,7 +65,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### skeleton.json
 ```JSON
 "minecraft:shooter": {
     "type": "Arrow",
@@ -89,7 +88,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### stray.json
 ```JSON
 "minecraft:shooter": {
     "type": "Arrow",

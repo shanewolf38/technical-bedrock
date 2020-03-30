@@ -19,7 +19,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cave_spider.json
 ```JSON
 "minecraft:behavior.leap_at_target": {
     "priority": 4,

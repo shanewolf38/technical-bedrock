@@ -16,7 +16,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### command_block_minecart.json
 ```JSON
 "minecraft:rail_sensor": {
     "check_block_types": false,
@@ -39,7 +38,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### hopper_minecart.json
 ```JSON
 "minecraft:rail_sensor": {
     "on_deactivate": {
@@ -60,12 +58,10 @@ This documentation is auto-generated using a python script, written by SirLich. 
 "minecraft:rail_sensor": {}
 ```
 
-### tnt_minecart.json
 ```JSON
 "minecraft:rail_sensor": {}
 ```
 
-### tnt_minecart.json
 ```JSON
 "minecraft:rail_sensor": {
     "on_activate": {

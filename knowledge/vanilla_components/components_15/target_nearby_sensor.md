@@ -23,12 +23,10 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### creeper.json
 ```JSON
 "minecraft:target_nearby_sensor": {}
 ```
 
-### creeper.json
 ```JSON
 "minecraft:target_nearby_sensor": {}
 ```
@@ -61,7 +59,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### guardian.json
 ```JSON
 "minecraft:target_nearby_sensor": {
     "inside_range": 3.0,

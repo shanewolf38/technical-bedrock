@@ -39,7 +39,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### bee.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": [
@@ -77,7 +76,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cave_spider.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": {
@@ -116,7 +114,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### dolphin.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": [
@@ -132,7 +129,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### dolphin.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": [
@@ -178,7 +174,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### fox.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": [
@@ -218,7 +213,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### fox.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": [
@@ -258,7 +252,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### fox.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": [
@@ -280,7 +273,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### fox.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": [
@@ -319,7 +311,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### husk.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": {
@@ -334,7 +325,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### husk.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": {
@@ -388,7 +378,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pillager.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": {
@@ -441,7 +430,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### skeleton.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": {
@@ -456,7 +444,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### skeleton.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": {
@@ -485,7 +472,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### spider.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": {
@@ -514,7 +500,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### stray.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": {
@@ -529,7 +514,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### stray.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": {
@@ -558,7 +542,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": {
@@ -573,7 +556,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie.json
 ```JSON
 "minecraft:environment_sensor": {
     "triggers": {

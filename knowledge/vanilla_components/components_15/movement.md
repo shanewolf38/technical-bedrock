@@ -79,7 +79,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### drowned.json
 ```JSON
 "minecraft:movement": {
     "value": 0.25
@@ -100,7 +99,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### enderman.json
 ```JSON
 "minecraft:movement": {
     "value": 0.45
@@ -173,7 +171,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### husk.json
 ```JSON
 "minecraft:movement": {
     "value": 0.23
@@ -201,14 +198,12 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### magma_cube.json
 ```JSON
 "minecraft:movement": {
     "value": 0.66
 }
 ```
 
-### magma_cube.json
 ```JSON
 "minecraft:movement": {
     "value": 0.6
@@ -250,7 +245,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:movement": {
     "value": 0.07
@@ -320,7 +314,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### ravager.json
 ```JSON
 "minecraft:movement": {
     "value": 0.3
@@ -377,14 +370,12 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### slime.json
 ```JSON
 "minecraft:movement": {
     "value": 0.4
 }
 ```
 
-### slime.json
 ```JSON
 "minecraft:movement": {
     "value": 0.3
@@ -503,7 +494,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie.json
 ```JSON
 "minecraft:movement": {
     "value": 0.23
@@ -531,7 +521,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:movement": {
     "value": 0.23
@@ -545,7 +534,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager_v2.json
 ```JSON
 "minecraft:movement": {
     "value": 0.23

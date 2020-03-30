@@ -7,7 +7,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 "minecraft:behavior.explore_outskirts": {}
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.explore_outskirts": {
     "priority": 9,

@@ -7,7 +7,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 "minecraft:behavior.trade_interest": {}
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,
@@ -19,7 +18,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,
@@ -31,7 +29,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,
@@ -43,7 +40,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,
@@ -55,7 +51,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,
@@ -67,7 +62,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,
@@ -79,7 +73,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,
@@ -91,7 +84,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,
@@ -103,7 +95,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,
@@ -115,7 +106,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,
@@ -127,7 +117,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,
@@ -139,7 +128,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,
@@ -151,7 +139,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.trade_interest": {
     "priority": 5,

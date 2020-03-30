@@ -37,7 +37,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### bee.json
 ```JSON
 "minecraft:behavior.move_to_block": {
     "priority": 10,

@@ -7,7 +7,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 "minecraft:is_shaking": {}
 ```
 
-### husk.json
 ```JSON
 "minecraft:is_shaking": {}
 ```
@@ -17,7 +16,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 "minecraft:is_shaking": {}
 ```
 
-### zombie.json
 ```JSON
 "minecraft:is_shaking": {}
 ```

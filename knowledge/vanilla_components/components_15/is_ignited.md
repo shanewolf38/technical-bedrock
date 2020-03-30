@@ -7,7 +7,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 "minecraft:is_ignited": {}
 ```
 
-### tnt_minecart.json
 ```JSON
 "minecraft:is_ignited": {}
 ```

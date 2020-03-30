@@ -11,7 +11,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### fox.json
 ```JSON
 "minecraft:behavior.find_cover": {
     "priority": 9,

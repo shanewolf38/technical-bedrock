@@ -80,7 +80,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",
@@ -94,7 +93,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",
@@ -108,7 +106,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",
@@ -122,7 +119,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",
@@ -136,7 +132,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",
@@ -150,7 +145,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",
@@ -164,7 +158,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",
@@ -178,7 +171,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",
@@ -192,7 +184,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",
@@ -206,7 +197,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",
@@ -220,7 +210,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",
@@ -234,7 +223,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",
@@ -248,7 +236,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:dweller": {
     "dwelling_type": "village",

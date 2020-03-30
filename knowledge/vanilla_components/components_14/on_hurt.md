@@ -18,7 +18,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pillager.json
 ```JSON
 "minecraft:on_hurt": {
     "event": "minecraft:synchronized_ranged_mode",

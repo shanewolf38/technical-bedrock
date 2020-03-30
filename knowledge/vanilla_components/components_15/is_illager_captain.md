@@ -7,7 +7,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 "minecraft:is_illager_captain": {}
 ```
 
-### pillager.json
 ```JSON
 "minecraft:is_illager_captain": {}
 ```
@@ -17,7 +16,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 "minecraft:is_illager_captain": {}
 ```
 
-### vindicator.json
 ```JSON
 "minecraft:is_illager_captain": {}
 ```

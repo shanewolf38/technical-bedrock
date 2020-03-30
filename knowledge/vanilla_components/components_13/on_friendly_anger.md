@@ -26,7 +26,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pillager.json
 ```JSON
 "minecraft:on_friendly_anger": {
     "event": "minecraft:synchronized_ranged_mode",

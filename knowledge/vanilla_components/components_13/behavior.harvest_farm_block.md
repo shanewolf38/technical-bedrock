@@ -15,7 +15,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 "minecraft:behavior.harvest_farm_block": {}
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:behavior.harvest_farm_block": {
     "priority": 8,

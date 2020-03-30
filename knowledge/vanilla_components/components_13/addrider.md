@@ -9,14 +9,12 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cave_spider.json
 ```JSON
 "minecraft:addrider": {
     "entity_type": "minecraft:skeleton.stray"
 }
 ```
 
-### cave_spider.json
 ```JSON
 "minecraft:addrider": {
     "entity_type": "minecraft:skeleton.wither"
@@ -30,7 +28,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### ravager.json
 ```JSON
 "minecraft:addrider": {
     "entity_type": "minecraft:pillager",
@@ -38,7 +35,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### ravager.json
 ```JSON
 "minecraft:addrider": {
     "entity_type": "minecraft:evocation_illager",
@@ -46,7 +42,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### ravager.json
 ```JSON
 "minecraft:addrider": {
     "entity_type": "minecraft:pillager",
@@ -54,14 +49,12 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### ravager.json
 ```JSON
 "minecraft:addrider": {
     "entity_type": "minecraft:vindicator"
 }
 ```
 
-### ravager.json
 ```JSON
 "minecraft:addrider": {
     "entity_type": "minecraft:vindicator",
@@ -76,14 +69,12 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### spider.json
 ```JSON
 "minecraft:addrider": {
     "entity_type": "minecraft:skeleton.stray"
 }
 ```
 
-### spider.json
 ```JSON
 "minecraft:addrider": {
     "entity_type": "minecraft:skeleton.wither"

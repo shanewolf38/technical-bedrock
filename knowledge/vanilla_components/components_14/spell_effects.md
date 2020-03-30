@@ -15,12 +15,10 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### player.json
 ```JSON
 "minecraft:spell_effects": {}
 ```
 
-### player.json
 ```JSON
 "minecraft:spell_effects": {
     "remove_effects": "bad_omen"

@@ -20,7 +20,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pillager.json
 ```JSON
 "minecraft:behavior.hold_ground": {
     "priority": 6,

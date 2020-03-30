@@ -79,7 +79,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cave_spider.json
 ```JSON
 "minecraft:rideable": {
     "seat_count": 1,
@@ -96,7 +95,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cave_spider.json
 ```JSON
 "minecraft:rideable": {
     "seat_count": 1,
@@ -113,7 +111,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cave_spider.json
 ```JSON
 "minecraft:rideable": {
     "seat_count": 1,
@@ -183,7 +180,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### donkey.json
 ```JSON
 "minecraft:rideable": {
     "priority": 0,
@@ -222,7 +218,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### horse.json
 ```JSON
 "minecraft:rideable": {
     "priority": 0,
@@ -278,7 +273,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### llama.json
 ```JSON
 "minecraft:rideable": {
     "priority": 0,
@@ -350,7 +344,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### mule.json
 ```JSON
 "minecraft:rideable": {
     "priority": 0,
@@ -421,7 +414,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pig.json
 ```JSON
 "minecraft:rideable": {
     "seat_count": 1,
@@ -508,7 +500,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### sheep.json
 ```JSON
 "minecraft:rideable": {
     "seat_count": 1,
@@ -545,12 +536,10 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### skeleton_horse.json
 ```JSON
 "minecraft:rideable": {}
 ```
 
-### skeleton_horse.json
 ```JSON
 "minecraft:rideable": {
     "seat_count": 1,
@@ -587,7 +576,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### spider.json
 ```JSON
 "minecraft:rideable": {
     "seat_count": 1,
@@ -604,7 +592,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### spider.json
 ```JSON
 "minecraft:rideable": {
     "seat_count": 1,
@@ -621,7 +608,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### spider.json
 ```JSON
 "minecraft:rideable": {
     "seat_count": 1,

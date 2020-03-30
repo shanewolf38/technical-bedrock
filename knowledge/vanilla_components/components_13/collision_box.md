@@ -322,7 +322,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### magma_cube.json
 ```JSON
 "minecraft:collision_box": {
     "width": 0.78,
@@ -330,7 +329,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### magma_cube.json
 ```JSON
 "minecraft:collision_box": {
     "width": 0.52,
@@ -506,7 +504,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### slime.json
 ```JSON
 "minecraft:collision_box": {
     "width": 1.04,
@@ -514,7 +511,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### slime.json
 ```JSON
 "minecraft:collision_box": {
     "width": 0.52,
@@ -626,7 +622,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### turtle.json
 ```JSON
 "minecraft:collision_box": {
     "width": 1.2,

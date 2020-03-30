@@ -66,7 +66,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pufferfish.json
 ```JSON
 "minecraft:timer": {
     "looping": false,
@@ -78,7 +77,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pufferfish.json
 ```JSON
 "minecraft:timer": {
     "looping": false,

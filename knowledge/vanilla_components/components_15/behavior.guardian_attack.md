@@ -16,7 +16,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### guardian.json
 ```JSON
 "minecraft:behavior.guardian_attack": {
     "priority": 4

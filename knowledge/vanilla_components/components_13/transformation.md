@@ -14,7 +14,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### husk.json
 ```JSON
 "minecraft:transformation": {
     "into": "minecraft:zombie<minecraft:as_baby>",
@@ -57,7 +56,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:transformation": {
     "into": "minecraft:villager_v2",
@@ -65,7 +63,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager.json
 ```JSON
 "minecraft:transformation": {
     "into": "minecraft:zombie_villager"
@@ -80,7 +77,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:transformation": {
     "into": "minecraft:zombie_villager_v2",
@@ -100,7 +96,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie.json
 ```JSON
 "minecraft:transformation": {
     "into": "minecraft:drowned<minecraft:as_baby>",
@@ -120,7 +115,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### zombie_villager.json
 ```JSON
 "minecraft:transformation": {
     "into": "minecraft:villager",

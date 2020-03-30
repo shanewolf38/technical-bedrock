@@ -36,7 +36,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pufferfish.json
 ```JSON
 "minecraft:entity_sensor": {
     "sensor_range": 10,

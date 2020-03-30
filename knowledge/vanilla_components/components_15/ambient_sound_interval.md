@@ -11,7 +11,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### bee.json
 ```JSON
 "minecraft:ambient_sound_interval": {
     "event_name": "ambient",
@@ -36,14 +35,12 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### fox.json
 ```JSON
 "minecraft:ambient_sound_interval": {
     "event_name": "sleep"
 }
 ```
 
-### fox.json
 ```JSON
 "minecraft:ambient_sound_interval": {
     "event_name": "screech",

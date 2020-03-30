@@ -16,7 +16,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cat.json
 ```JSON
 "minecraft:behavior.tempt": {
     "priority": 5,
@@ -151,7 +150,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### ocelot.json
 ```JSON
 "minecraft:behavior.tempt": {
     "priority": 4,

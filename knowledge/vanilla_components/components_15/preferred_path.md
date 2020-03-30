@@ -176,7 +176,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:preferred_path": {
     "max_fall_blocks": 1,

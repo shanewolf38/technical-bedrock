@@ -35,7 +35,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### arrow.json
 ```JSON
 "minecraft:projectile": {
     "on_hit": {
@@ -68,7 +67,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### arrow.json
 ```JSON
 "minecraft:projectile": {
     "on_hit": {
@@ -101,7 +99,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### arrow.json
 ```JSON
 "minecraft:projectile": {
     "on_hit": {
@@ -220,7 +217,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### ender_pearl.json
 ```JSON
 "minecraft:projectile": {
     "on_hit": {

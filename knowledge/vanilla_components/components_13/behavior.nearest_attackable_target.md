@@ -91,7 +91,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cave_spider.json
 ```JSON
 "minecraft:behavior.nearest_attackable_target": {
     "priority": 2,
@@ -425,7 +424,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### guardian.json
 ```JSON
 "minecraft:behavior.nearest_attackable_target": {
     "priority": 1,
@@ -730,7 +728,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### polar_bear.json
 ```JSON
 "minecraft:behavior.nearest_attackable_target": {
     "priority": 4,
@@ -1090,7 +1087,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### vindicator.json
 ```JSON
 "minecraft:behavior.nearest_attackable_target": {
     "priority": 2,
@@ -1336,7 +1332,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### wolf.json
 ```JSON
 "minecraft:behavior.nearest_attackable_target": {
     "priority": 5,

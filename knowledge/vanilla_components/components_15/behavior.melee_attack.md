@@ -34,7 +34,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### cave_spider.json
 ```JSON
 "minecraft:behavior.melee_attack": {
     "priority": 3,
@@ -93,7 +92,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### fox.json
 ```JSON
 "minecraft:behavior.melee_attack": {
     "priority": 1,
@@ -128,7 +126,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:behavior.melee_attack": {
     "priority": 2,

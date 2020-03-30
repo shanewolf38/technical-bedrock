@@ -7,7 +7,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 "minecraft:economy_trade_table": {}
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.farmer",
@@ -17,7 +16,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.fisherman",
@@ -27,7 +25,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.shepherd",
@@ -37,7 +34,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.fletcher",
@@ -47,7 +43,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.librarian",
@@ -57,7 +52,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.cartographer",
@@ -67,7 +61,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.cleric",
@@ -77,7 +70,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.armor",
@@ -87,7 +79,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.weapon",
@@ -97,7 +88,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.tool",
@@ -107,7 +97,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.butcher",
@@ -117,7 +106,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.leather",
@@ -127,7 +115,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### villager_v2.json
 ```JSON
 "minecraft:economy_trade_table": {
     "display_name": "entity.villager.mason",

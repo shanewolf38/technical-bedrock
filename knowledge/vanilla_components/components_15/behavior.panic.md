@@ -11,7 +11,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### bee.json
 ```JSON
 "minecraft:behavior.panic": {
     "priority": 1,
@@ -68,7 +67,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### fox.json
 ```JSON
 "minecraft:behavior.panic": {
     "priority": 2,
@@ -124,7 +122,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:behavior.panic": {
     "priority": 1,
@@ -132,7 +129,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### panda.json
 ```JSON
 "minecraft:behavior.panic": {
     "priority": 1,

@@ -10,12 +10,10 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### creeper.json
 ```JSON
 "minecraft:on_target_escape": {}
 ```
 
-### creeper.json
 ```JSON
 "minecraft:on_target_escape": {}
 ```
@@ -83,7 +81,6 @@ This documentation is auto-generated using a python script, written by SirLich. 
 }
 ```
 
-### pillager.json
 ```JSON
 "minecraft:on_target_escape": {
     "event": "minecraft:calm",
