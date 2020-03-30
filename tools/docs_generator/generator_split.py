@@ -81,7 +81,7 @@ def main():
             print(outfile)
 
             #Prep outfile:
-            outfile.write("# Vannila Components\n")
+            outfile.write("# Vanilla Component Usage\n")
             outfile.write(
                 "This documentation is auto-generated using a python script, written by SirLich. If there is an issue, please bring it to his attention by contacting him on discord: `SirLich#1658`\n\n"
             )
@@ -90,7 +90,7 @@ def main():
             outfile.write("# " + current + "\n")
         
         outfile.write("### " + component["entity"] + "\n")
-        outfile.write("```JSON\n" + component["id"] + ": " + json.dumps(component["component"], indent=4) + "\n```\n\n")
+        outfile.write("```JSON\n\"" + component["id"] + "\": " + json.dumps(component["component"], indent=4) + "\n```\n\n")
 
 
 
