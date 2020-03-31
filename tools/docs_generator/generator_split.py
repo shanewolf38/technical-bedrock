@@ -73,6 +73,7 @@ def main():
 
     #Handle components:
     current = ""
+    entity = ""
     for component in components:
         #Reset current, so we can create headers:
         if(component["id"] != current):
@@ -89,7 +90,10 @@ def main():
             current = component["id"]
             outfile.write("# " + current + "\n")
         
-        outfile.write("### " + component["entity"] + "\n")
+        if(component["entity"] != entity):
+            entity = component["entity"]
+            outfile.write("### " + entity + "\n")
+        
         outfile.write("```JSON\n\"" + component["id"] + "\": " + json.dumps(component["component"], indent=4) + "\n```\n\n")
 
 
