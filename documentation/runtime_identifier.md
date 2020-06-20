@@ -50,17 +50,35 @@ Down below are a few Runtime Identifiers that you can add to your entity with th
 - Cannot change the direction it faces.
 
 `minecraft:parrot`
+---
 ### Notes:
  - makes the wing flap animation able to work
  - makes the mob fall slowly
  - makes it dance to music discs
 
 `minecraft:armor_stand`
+---
 ### Notes:
  - Disables entity shadows
+ - Equipment now placeable on entity
 
 `minecraft:iron_golem`
+---
 ### Notes:
 - Allows push attack
-- Breaks arm interaction
+- Speeds up arm and leg animations (can be corrected to normal speed, ~1/4)
 - Might interact badly with village/villager logic.
+
+`minecraft:arrow`
+---
+### Notes:
+- Disables entity shadow
+- Disables death animation
+- Not interactable
+
+`minecraft:thrown_trident`
+---
+### Notes:
+- Disables entity shadow
+- Disables death animation
+- Not interactable
