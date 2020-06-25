@@ -34,13 +34,13 @@ Behaviors:
 			"is_experimental": false
 		},
 		"components": {
-			//Cause the entity to die when spawned
+			//causes the entity to die when spawned
 			"minecraft:health": {
 				"value": 0
-            },
-            "minecraft:loot": {
-                "table": "loot_tables/entities/some_loot.json"
-            }
+			},
+			"minecraft:loot": {
+				"table": "loot_tables/entities/some_loot.json"
+			}
 		}
 	}
 }
@@ -56,19 +56,19 @@ Note that if the entity is not removed upon interaction, it can be interacted wi
 
 ```json
 "minecraft:interact": {
-  "interactions": [
-    {
-	  "on_interact": {
-	    "filters": { "test": "is_family", "subject": "other", "value": "player" },
-		"event": "break_box",
-		"target": "self"
-      },
-	  "swing": true,
-	  "spawn_items": {
-        "table": "loot_tables/entities/box.json"
-      }
-    }
-  ]
+	"interactions": [
+		{
+			"on_interact": {
+				"filters": { "test": "is_family", "subject": "other", "value": "player" },
+				"event": "break_box",
+				"target": "self"
+			},
+			"swing": true,
+			"spawn_items": {
+				"table": "loot_tables/entities/box.json"
+			}
+		}
+	]
 }
 ```
 
@@ -80,24 +80,16 @@ There are a number of parts required to set up the item dropping: a new entity w
 
 ### Behavior
 
-The items are spawned using the `minecraft:behavior.drop_item_for` component in conjuction with the `minecraft:navigation.walk` component, the latter being required for the former to work. Note that the `time_of_day_range` parameter in the following is not initialized to how it is defined below despite the documentation listing it as such, and this is necessary for proper function.
+The items are spawned using the `minecraft:behavior.drop_item_for` component in conjuction with the `minecraft:navigation.walk` component, the latter being required for the former to work. Note that the `time_of_day_range` parameter in the following is not initialized to how it is defined below despite the documentation listing it as such, and this is necessary for proper function. The parameter `max_dist` must be increased to an appropriate value if the items are desired to be dropped when the player is very far away.
 
-Note that this behavior appears to push the mob back when the items are dropped. Thus it is important to summon the entity slightly above the ground (or teleport it up in the following animation controller) to avoid the items spawning a few blocks away from the spawn location. 
+This behavior appears to push the mob back when the items are dropped. Thus it is important to summon the entity slightly above the ground (or teleport it up in the following animation controller) to avoid the items spawning a few blocks away from the spawn location. Decreasing the size of the collision box may also help.
 
 ```json
 "minecraft:navigation.walk": {
 },
 "minecraft:behavior.drop_item_for": {
   "priority": 1,
-  "speed_multiplier": 0.0,
-  "search_range": 5,
-  "search_height": 5,
-  "search_count": 0,
-  "goal_radius": 5.0,
-  "entity_types":  { "filters": {}, "max_dist": 5 },
-  "max_dist": 5,
-  "drop_item_chance": 1.0,
-  "offering_distance": 5,
+  "max_dist": 16,
   "loot_table": "loot_tables/entities/forium.json",
   "time_of_day_range": [0.0, 1.0]
 },
